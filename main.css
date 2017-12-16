@@ -1,0 +1,15 @@
+
+body {
+	background: #FAFAFA;
+}
+
+footer {
+    background-color: #FFB74D;
+    position: absolute;
+    padding: 2px;
+    bottom: 0;
+    height: 20px;
+    width: 100%;
+    overflow:hidden;
+    font-size: 12px;
+}
